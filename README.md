@@ -1,5 +1,7 @@
 # Chatterbots — Lesson Project
 
+https://www.youtube.com/watch?v=Et0iuK68pjU
+
 A minimal lesson project demonstrating a simple chatbot using the ChatterBot library (Python).
 
 ## Project layout
